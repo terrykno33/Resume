@@ -1,0 +1,17 @@
+<body>
+    <div class="resume-container">
+        <h1>Your Name</h1>
+        <div class="section">
+            <h2>Experience</h2>
+            <ul>
+                <li>Job 1</li>
+                <li>Job 2</li>
+            </ul>
+        </div>
+        <!-- Add more sections as needed -->
+    </div>
+</body>
+</html>
+<style.css>
+
+
