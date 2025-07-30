@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Terry Knowles - Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.6;
+      color: #333;
+    }
+    h1, h2, h3 {
+      color: #003366;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 4px;
+    }
+    .section {
+      margin-bottom: 24px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin-bottom: 6px;
+    }
+    .highlight {
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Terry Knowles</h1>
+  <p>Fort Worth, TX 76116 | <a href="mailto:terrykno33@gmail.com">terrykno33@gmail.com</a> | (682) 336-3073<br>
+  GitHub: [your GitHub URL] | LinkedIn: [your LinkedIn URL]</p>
+
+  <div class="section">
+    <h2>Objective</h2>
+    <p>Motivated Computer Science student with a 3.08 GPA, pursuing Associate’s and Bachelor’s degrees at DeVry University. Eager to apply academic knowledge in real-world environments through an internship or entry-level role in IT, web development, or software testing. Passionate about solving technical challenges and building practical digital solutions.</p>
+  </div>
+
+  <div class="section">
+    <h2>Education</h2>
+    <p><strong>DeVry University</strong> – Fort Worth, TX<br>
+    Bachelor of Science in Computer Science (In Progress)<br>
+    GPA: 3.08 | Expected Graduation: 2027</p>
+    <p>Dean’s List • Honor Roll (3 years) • 27 Course Certificates • Leadership Roles</p>
+  </div>
+
+  <div class="section">
+    <h2>Relevant Coursework</h2>
+    <ul>
+      <li>Career Development (A)</li>
+      <li>IT/Cloud 2026 (A)</li>
+      <li>Fundamentals of Info Security (A)</li>
+      <li>Programming Languages & Advanced Techniques (A)</li>
+      <li>Software Engineering I (A)</li>
+      <li>Database Systems (A)</li>
+      <li>Data Structures & Algorithms (B)</li>
+      <li>Intermediate Programming (C)</li>
+      <li>Public Speaking (D)</li>
+      <li>Algebra & Pre-College Math (A)</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Technical Skills</h2>
+    <ul>
+      <li><span class="highlight">Programming:</span> Python, Java, JavaScript, C++</li>
+      <li><span class="highlight">Web:</span> HTML, CSS, Git, GitHub</li>
+      <li><span class="highlight">Cloud:</span> Google Cloud Run, Cloud Code, Docker</li>
+      <li><span class="highlight">Database:</span> SQL, Microsoft Access</li>
+      <li><span class="highlight">Tools:</span> VS Code, PowerShell, GitHub Desktop, Spyder IDE</li>
+      <li><span class="highlight">Security:</span> Wireshark, Nmap, Nessus, NetCat</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Academic Projects</h2>
+    <ul>
+      <li><strong>Virtual Study Buddy Web App:</strong> Mockup in HTML/CSS with GitHub collaboration and branches.</li>
+      <li><strong>Tool Checkout System (G&B Manufacturing):</strong> Front-end form system using HTML/JavaScript.</li>
+      <li><strong>Cloud Invoice Automation:</strong> Go backend with PowerShell deployment to Google Cloud Run.</li>
+      <li><strong>Secure IoT Environment:</strong> Built Hyper-V VMs with firewalls, MFA, Nmap/Nessus scanning.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Certifications (In Progress)</h2>
+    <ul>
+      <li>Google IT Support Certificate – Coursera</li>
+      <li>LinkedIn Learning – Cloud & Cybersecurity Tracks</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Additional Information</h2>
+    <ul>
+      <li>Member of DEI Student Book Club</li>
+      <li>Strong mechanical background (Construction & Manufacturing)</li>
+      <li>Known for attention to detail, troubleshooting, and persistence</li>
+    </ul>
+  </div>
+
+</body>
+</html>
